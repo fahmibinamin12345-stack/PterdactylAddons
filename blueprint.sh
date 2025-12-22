@@ -18,7 +18,7 @@ BRAND="\n${PURPLE}
 ║ | |_) | | |_| |  __/ |_) | |  | | | | | |_        ║
 ║ |____/|_|\__,_|\___| .__/|_|  |_|_| |_|\__|       ║
 ║                    |_|                            ║
-║      ${YELLOW}>> made by NighT <<${PURPLE}             ║
+║      ${YELLOW}>> made by GAMERBOY_L <<${PURPLE}             ║
 ║         ${YELLOW}DC: nightt.js${PURPLE}                  ║
 ╚═══════════════════════════════════════════════════╝${NC}"
 
