@@ -18,12 +18,12 @@ BRAND="\n${PURPLE}
 ║ | |_) | | |_| |  __/ |_) | |  | | | | | |_        ║
 ║ |____/|_|\__,_|\___| .__/|_|  |_|_| |_|\__|       ║
 ║                    |_|                            ║
-║      ${YELLOW}>> made by NighT <<${PURPLE}             ║
-║         ${YELLOW}DC: nightt.js${PURPLE}                  ║
+║      ${YELLOW}>> made by L <<${PURPLE}             ║
+║         ${YELLOW}----${PURPLE}                  ║
 ╚═══════════════════════════════════════════════════╝${NC}"
 
-CREDITS="\n${YELLOW}Created by: Shivaksh Chaudhary
-Discord: unbelievablegirl.exe${NC}\n"
+CREDITS="\n${YELLOW}Created by: L
+Discord: ${NC}\n"
 
 # Display branding and credits
 echo -e "$BRAND"
@@ -83,7 +83,7 @@ echo "╠═══════════════════════�
 echo "║  Thank you for using my custom installer     ║"
 echo "║                                              ║"
 echo "║  Need help? Contact me on Discord:           ║"
-echo "║              Nightt.js                       ║"
+echo "║                                    ║"
 echo "╚══════════════════════════════════════════════╝"
 echo -e "${NC}"
 echo -e "${YELLOW}To get started with Blueprint:"
